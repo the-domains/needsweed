@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8391426
+  lightness: 0.4487079
+  brandStrength: 0.210109
+  brandColors:
+    - '#020202'
+    - '#FFFFFF'
+    - '#464646'
+    - '#808080'
+    - '#19F520'
+  rhythmicContrast: 0.304976
+typography_spectrum: 1
+name: NeedsWeed
